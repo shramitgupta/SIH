@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "570359987310",
+    "project_id": "sihapp-312d2",
+    "storage_bucket": "sihapp-312d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570359987310:android:9e7b63ddbb4b7515e8fa7f",
+        "android_client_info": {
+          "package_name": "com.example.sih"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570359987310-6cfuei2t45hitjodmob4hv2cs5nfkbg9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sih",
+            "certificate_hash": "6866534ddda756a53b153b9279664f451d607e0d"
+          }
+        },
+        {
+          "client_id": "570359987310-vh2a8mce22qrum99dkqgu6ub84h91et6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbxZrYRtt5F0IKKKYfIPFcjWw41boJaYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570359987310-vh2a8mce22qrum99dkqgu6ub84h91et6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
